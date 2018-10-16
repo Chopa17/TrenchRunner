@@ -1,0 +1,18 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////
+//																								 //
+// TR_Player.h by Sam Brind																         //
+//		- The player's character																 //
+//		- By Sam Brind																			 //
+//																								 //
+///////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef TR_PLAYER_H
+#define TR_PLAYER_H
+
+#include "Entities/TR_Entity.h"
+
+class TR_Player : public TR_Entity
+{
+
+};
+
+#endif
